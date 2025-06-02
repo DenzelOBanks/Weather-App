@@ -15,6 +15,7 @@ A simple Weather App that allows users to check the current weather and forecast
 
 ## Technologies Used
 -Python
+- Tkinder
 - OpenWeatherMap API (or your chosen weather API)
 
 ## License
